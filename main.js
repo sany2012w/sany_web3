@@ -81,8 +81,8 @@ function createCanvas(width,height){
 
     drawOneImage(canvas,context,0,0,102,200);
     drawOneImage(canvas,context,0,200,310,100);
-    drawOneImage(canvas,context,100,0,103,200);
-    drawOneImage(canvas,context,210,0,105,200);
+    drawOneImage(canvas,context,102,0,103,200);
+    drawOneImage(canvas,context,205,0,105,200);
 
 
 
